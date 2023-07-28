@@ -1,1 +1,2 @@
 # Predict-flight-ticket-price
+Analysis of the dataset to get insights about the airline fare and the features of the dataset is done using seven different machine learning (ML) models which are used to predict airline ticket prices, and their performance is compared. The goal is to investigate the factors that determine the cost of a flight. The data is then used to create a system that predicts flight prices.
